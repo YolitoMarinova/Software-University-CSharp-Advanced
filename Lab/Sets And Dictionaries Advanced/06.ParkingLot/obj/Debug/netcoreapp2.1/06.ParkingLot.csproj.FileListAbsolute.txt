@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\06.ParkingLot\bin\Debug\netcoreapp2.1\06.ParkingLot.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\06.ParkingLot\bin\Debug\netcoreapp2.1\06.ParkingLot.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\06.ParkingLot\bin\Debug\netcoreapp2.1\06.ParkingLot.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\06.ParkingLot\bin\Debug\netcoreapp2.1\06.ParkingLot.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\06.ParkingLot\bin\Debug\netcoreapp2.1\06.ParkingLot.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\06.ParkingLot\obj\Debug\netcoreapp2.1\06.ParkingLot.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\06.ParkingLot\obj\Debug\netcoreapp2.1\06.ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\06.ParkingLot\obj\Debug\netcoreapp2.1\06.ParkingLot.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\06.ParkingLot\obj\Debug\netcoreapp2.1\06.ParkingLot.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\06.ParkingLot\obj\Debug\netcoreapp2.1\06.ParkingLot.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\06.ParkingLot\obj\Debug\netcoreapp2.1\06.ParkingLot.pdb

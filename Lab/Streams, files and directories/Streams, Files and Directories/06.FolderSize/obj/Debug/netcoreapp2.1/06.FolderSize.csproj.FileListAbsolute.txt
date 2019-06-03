@@ -1,0 +1,19 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\06.FolderSize.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\06.FolderSize.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\06.FolderSize.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\06.FolderSize.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\06.FolderSize.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\obj\Debug\netcoreapp2.1\06.FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\obj\Debug\netcoreapp2.1\06.FolderSize.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\obj\Debug\netcoreapp2.1\06.FolderSize.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\obj\Debug\netcoreapp2.1\06.FolderSize.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\obj\Debug\netcoreapp2.1\06.FolderSize.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\files\TestFolder\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\files\TestFolder\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\files\TestFolder\1. Java-Advanced-Stacks-and-Queues.pptx
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\files\TestFolder\2. Simple-Calculations-Exercises.docx
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\files\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\files\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\files\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues.pptx
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\bin\Debug\netcoreapp2.1\files\TestFolder\TestFolder2\2. Simple-Calculations-Exercises.docx
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\06.FolderSize\obj\Debug\netcoreapp2.1\06.FolderSize.csprojAssemblyReference.cache

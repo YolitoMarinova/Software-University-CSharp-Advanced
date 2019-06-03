@@ -1,0 +1,12 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\bin\Debug\netcoreapp2.1\files\sliceMe.txt
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\bin\Debug\netcoreapp2.1\05.SliceAFile.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\bin\Debug\netcoreapp2.1\05.SliceAFile.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\bin\Debug\netcoreapp2.1\05.SliceAFile.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\bin\Debug\netcoreapp2.1\05.SliceAFile.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\bin\Debug\netcoreapp2.1\05.SliceAFile.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\obj\Debug\netcoreapp2.1\05.SliceAFile.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\obj\Debug\netcoreapp2.1\05.SliceAFile.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\obj\Debug\netcoreapp2.1\05.SliceAFile.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\obj\Debug\netcoreapp2.1\05.SliceAFile.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\obj\Debug\netcoreapp2.1\05.SliceAFile.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\05.SliceAFile\obj\Debug\netcoreapp2.1\05.SliceAFile.pdb

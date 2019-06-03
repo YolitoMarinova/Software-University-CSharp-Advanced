@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\06.BombTheBasement\bin\Debug\netcoreapp2.1\06.BombTheBasement.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\06.BombTheBasement\bin\Debug\netcoreapp2.1\06.BombTheBasement.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\06.BombTheBasement\bin\Debug\netcoreapp2.1\06.BombTheBasement.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\06.BombTheBasement\bin\Debug\netcoreapp2.1\06.BombTheBasement.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\06.BombTheBasement\bin\Debug\netcoreapp2.1\06.BombTheBasement.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\06.BombTheBasement\obj\Debug\netcoreapp2.1\06.BombTheBasement.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\06.BombTheBasement\obj\Debug\netcoreapp2.1\06.BombTheBasement.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\06.BombTheBasement\obj\Debug\netcoreapp2.1\06.BombTheBasement.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\06.BombTheBasement\obj\Debug\netcoreapp2.1\06.BombTheBasement.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\06.BombTheBasement\obj\Debug\netcoreapp2.1\06.BombTheBasement.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\06.BombTheBasement\obj\Debug\netcoreapp2.1\06.BombTheBasement.pdb

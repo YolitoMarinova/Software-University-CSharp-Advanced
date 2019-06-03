@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\03.ProductShop\bin\Debug\netcoreapp2.1\03.ProductShop.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\03.ProductShop\bin\Debug\netcoreapp2.1\03.ProductShop.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\03.ProductShop\bin\Debug\netcoreapp2.1\03.ProductShop.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\03.ProductShop\bin\Debug\netcoreapp2.1\03.ProductShop.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\03.ProductShop\bin\Debug\netcoreapp2.1\03.ProductShop.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\03.ProductShop\obj\Debug\netcoreapp2.1\03.ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\03.ProductShop\obj\Debug\netcoreapp2.1\03.ProductShop.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\03.ProductShop\obj\Debug\netcoreapp2.1\03.ProductShop.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\03.ProductShop\obj\Debug\netcoreapp2.1\03.ProductShop.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\03.ProductShop\obj\Debug\netcoreapp2.1\03.ProductShop.pdb

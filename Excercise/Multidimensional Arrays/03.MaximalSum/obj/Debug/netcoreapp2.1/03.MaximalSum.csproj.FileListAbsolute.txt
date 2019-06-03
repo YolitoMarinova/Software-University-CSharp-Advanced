@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\03.MaximalSum\bin\Debug\netcoreapp2.1\03.MaximalSum.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\03.MaximalSum\bin\Debug\netcoreapp2.1\03.MaximalSum.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\03.MaximalSum\bin\Debug\netcoreapp2.1\03.MaximalSum.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\03.MaximalSum\bin\Debug\netcoreapp2.1\03.MaximalSum.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\03.MaximalSum\bin\Debug\netcoreapp2.1\03.MaximalSum.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\03.MaximalSum\obj\Debug\netcoreapp2.1\03.MaximalSum.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\03.MaximalSum\obj\Debug\netcoreapp2.1\03.MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\03.MaximalSum\obj\Debug\netcoreapp2.1\03.MaximalSum.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\03.MaximalSum\obj\Debug\netcoreapp2.1\03.MaximalSum.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\03.MaximalSum\obj\Debug\netcoreapp2.1\03.MaximalSum.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\03.MaximalSum\obj\Debug\netcoreapp2.1\03.MaximalSum.pdb

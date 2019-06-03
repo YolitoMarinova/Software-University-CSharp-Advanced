@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\02.AverageStudentGrades\bin\Debug\netcoreapp2.1\02.AverageStudentGrades.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\02.AverageStudentGrades\bin\Debug\netcoreapp2.1\02.AverageStudentGrades.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\02.AverageStudentGrades\bin\Debug\netcoreapp2.1\02.AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\02.AverageStudentGrades\bin\Debug\netcoreapp2.1\02.AverageStudentGrades.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\02.AverageStudentGrades\bin\Debug\netcoreapp2.1\02.AverageStudentGrades.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\netcoreapp2.1\02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\netcoreapp2.1\02.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\netcoreapp2.1\02.AverageStudentGrades.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\netcoreapp2.1\02.AverageStudentGrades.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\02.AverageStudentGrades\obj\Debug\netcoreapp2.1\02.AverageStudentGrades.pdb

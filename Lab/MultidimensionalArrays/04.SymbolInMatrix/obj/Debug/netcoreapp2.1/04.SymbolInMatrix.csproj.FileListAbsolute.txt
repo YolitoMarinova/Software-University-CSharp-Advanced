@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp2.1\04.SymbolInMatrix.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp2.1\04.SymbolInMatrix.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp2.1\04.SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp2.1\04.SymbolInMatrix.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\04.SymbolInMatrix\bin\Debug\netcoreapp2.1\04.SymbolInMatrix.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp2.1\04.SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp2.1\04.SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp2.1\04.SymbolInMatrix.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp2.1\04.SymbolInMatrix.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp2.1\04.SymbolInMatrix.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\04.SymbolInMatrix\obj\Debug\netcoreapp2.1\04.SymbolInMatrix.csprojAssemblyReference.cache

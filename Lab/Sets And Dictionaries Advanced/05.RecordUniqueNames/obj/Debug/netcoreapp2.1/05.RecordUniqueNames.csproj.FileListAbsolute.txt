@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\05.RecordUniqueNames\bin\Debug\netcoreapp2.1\05.RecordUniqueNames.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\05.RecordUniqueNames\bin\Debug\netcoreapp2.1\05.RecordUniqueNames.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\05.RecordUniqueNames\bin\Debug\netcoreapp2.1\05.RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\05.RecordUniqueNames\bin\Debug\netcoreapp2.1\05.RecordUniqueNames.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\05.RecordUniqueNames\bin\Debug\netcoreapp2.1\05.RecordUniqueNames.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\05.RecordUniqueNames\obj\Debug\netcoreapp2.1\05.RecordUniqueNames.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\05.RecordUniqueNames\obj\Debug\netcoreapp2.1\05.RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\05.RecordUniqueNames\obj\Debug\netcoreapp2.1\05.RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\05.RecordUniqueNames\obj\Debug\netcoreapp2.1\05.RecordUniqueNames.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\05.RecordUniqueNames\obj\Debug\netcoreapp2.1\05.RecordUniqueNames.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Sets And Dictionaries Advanced\05.RecordUniqueNames\obj\Debug\netcoreapp2.1\05.RecordUniqueNames.pdb

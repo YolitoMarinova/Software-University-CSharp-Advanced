@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\05.SquareWithMaximumSum\bin\Debug\netcoreapp2.1\05.SquareWithMaximumSum.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\05.SquareWithMaximumSum\bin\Debug\netcoreapp2.1\05.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\05.SquareWithMaximumSum\bin\Debug\netcoreapp2.1\05.SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\05.SquareWithMaximumSum\bin\Debug\netcoreapp2.1\05.SquareWithMaximumSum.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\05.SquareWithMaximumSum\bin\Debug\netcoreapp2.1\05.SquareWithMaximumSum.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\netcoreapp2.1\05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\netcoreapp2.1\05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\netcoreapp2.1\05.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\netcoreapp2.1\05.SquareWithMaximumSum.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\MultidimensionalArrays\05.SquareWithMaximumSum\obj\Debug\netcoreapp2.1\05.SquareWithMaximumSum.pdb

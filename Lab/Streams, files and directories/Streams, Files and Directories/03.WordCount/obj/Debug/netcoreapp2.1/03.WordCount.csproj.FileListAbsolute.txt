@@ -1,0 +1,13 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp2.1\files\text.txt
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp2.1\files\words.txt
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp2.1\03.WordCount.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp2.1\03.WordCount.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp2.1\03.WordCount.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp2.1\03.WordCount.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp2.1\03.WordCount.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp2.1\03.WordCount.pdb

@@ -1,0 +1,13 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp2.1\files\FileOne.txt
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp2.1\files\FileTwo.txt
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp2.1\04.MergeFiles.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp2.1\04.MergeFiles.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp2.1\04.MergeFiles.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp2.1\04.MergeFiles.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp2.1\04.MergeFiles.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp2.1\04.MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp2.1\04.MergeFiles.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp2.1\04.MergeFiles.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp2.1\04.MergeFiles.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp2.1\04.MergeFiles.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp2.1\04.MergeFiles.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\bin\Debug\netcoreapp2.1\01.OddLines.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\bin\Debug\netcoreapp2.1\01.OddLines.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\bin\Debug\netcoreapp2.1\01.OddLines.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\bin\Debug\netcoreapp2.1\01.OddLines.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\bin\Debug\netcoreapp2.1\01.OddLines.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\obj\Debug\netcoreapp2.1\01.OddLines.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Streams, files and directories\Streams, Files and Directories\01.OddLines\bin\Debug\netcoreapp2.1\files\Input.txt

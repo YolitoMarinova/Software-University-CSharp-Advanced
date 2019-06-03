@@ -1,0 +1,10 @@
+*.dtbcache
+*.lock
+*.ide
+*.csproj
+*.json
+*.dll
+*.pdb
+*.cache
+*.props
+*.targets

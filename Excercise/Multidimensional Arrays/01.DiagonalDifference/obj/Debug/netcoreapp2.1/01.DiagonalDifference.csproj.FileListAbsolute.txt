@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\01.DiagonalDifference\bin\Debug\netcoreapp2.1\01.DiagonalDifference.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\01.DiagonalDifference\bin\Debug\netcoreapp2.1\01.DiagonalDifference.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\01.DiagonalDifference\bin\Debug\netcoreapp2.1\01.DiagonalDifference.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\01.DiagonalDifference\bin\Debug\netcoreapp2.1\01.DiagonalDifference.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\01.DiagonalDifference\bin\Debug\netcoreapp2.1\01.DiagonalDifference.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\01.DiagonalDifference\obj\Debug\netcoreapp2.1\01.DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\01.DiagonalDifference\obj\Debug\netcoreapp2.1\01.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\01.DiagonalDifference\obj\Debug\netcoreapp2.1\01.DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\01.DiagonalDifference\obj\Debug\netcoreapp2.1\01.DiagonalDifference.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\01.DiagonalDifference\obj\Debug\netcoreapp2.1\01.DiagonalDifference.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Multidimensional Arrays\01.DiagonalDifference\obj\Debug\netcoreapp2.1\01.DiagonalDifference.pdb

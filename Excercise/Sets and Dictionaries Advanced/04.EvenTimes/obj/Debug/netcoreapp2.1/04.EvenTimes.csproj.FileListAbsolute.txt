@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\04.EvenTimes\bin\Debug\netcoreapp2.1\04.EvenTimes.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\04.EvenTimes\bin\Debug\netcoreapp2.1\04.EvenTimes.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\04.EvenTimes\bin\Debug\netcoreapp2.1\04.EvenTimes.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\04.EvenTimes\bin\Debug\netcoreapp2.1\04.EvenTimes.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\04.EvenTimes\bin\Debug\netcoreapp2.1\04.EvenTimes.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\04.EvenTimes\obj\Debug\netcoreapp2.1\04.EvenTimes.pdb

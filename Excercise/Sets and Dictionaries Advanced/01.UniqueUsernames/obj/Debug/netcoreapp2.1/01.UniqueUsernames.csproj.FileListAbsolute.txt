@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\01.UniqueUsernames\bin\Debug\netcoreapp2.1\01.UniqueUsernames.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\01.UniqueUsernames\bin\Debug\netcoreapp2.1\01.UniqueUsernames.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\01.UniqueUsernames\bin\Debug\netcoreapp2.1\01.UniqueUsernames.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\01.UniqueUsernames\bin\Debug\netcoreapp2.1\01.UniqueUsernames.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\01.UniqueUsernames\bin\Debug\netcoreapp2.1\01.UniqueUsernames.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Sets and Dictionaries Advanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.pdb
