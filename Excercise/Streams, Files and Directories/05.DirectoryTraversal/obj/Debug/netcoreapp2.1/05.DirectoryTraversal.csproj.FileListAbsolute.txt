@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\05.DirectoryTraversal\bin\Debug\netcoreapp2.1\05.DirectoryTraversal.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\05.DirectoryTraversal\bin\Debug\netcoreapp2.1\05.DirectoryTraversal.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\05.DirectoryTraversal\bin\Debug\netcoreapp2.1\05.DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\05.DirectoryTraversal\bin\Debug\netcoreapp2.1\05.DirectoryTraversal.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\05.DirectoryTraversal\bin\Debug\netcoreapp2.1\05.DirectoryTraversal.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\05.DirectoryTraversal\obj\Debug\netcoreapp2.1\05.DirectoryTraversal.pdb
