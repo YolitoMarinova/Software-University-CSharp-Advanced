@@ -1,0 +1,12 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\copyMe.png
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\04.CopyBinaryFile.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\04.CopyBinaryFile.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\04.CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\04.CopyBinaryFile.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\bin\Debug\netcoreapp2.1\04.CopyBinaryFile.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\04.CopyBinaryFile\obj\Debug\netcoreapp2.1\04.CopyBinaryFile.pdb
