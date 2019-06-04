@@ -1,0 +1,12 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\bin\Debug\netcoreapp2.1\text.txt
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\bin\Debug\netcoreapp2.1\01.EvenLines.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\bin\Debug\netcoreapp2.1\01.EvenLines.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\bin\Debug\netcoreapp2.1\01.EvenLines.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\bin\Debug\netcoreapp2.1\01.EvenLines.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\bin\Debug\netcoreapp2.1\01.EvenLines.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Streams, Files and Directories\01.EvenLines\obj\Debug\netcoreapp2.1\01.EvenLines.pdb
