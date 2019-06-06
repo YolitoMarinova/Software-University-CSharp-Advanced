@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Functional Programming\04.AddVAT\bin\Debug\netcoreapp2.1\04.AddVAT.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Functional Programming\04.AddVAT\bin\Debug\netcoreapp2.1\04.AddVAT.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Functional Programming\04.AddVAT\bin\Debug\netcoreapp2.1\04.AddVAT.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Functional Programming\04.AddVAT\bin\Debug\netcoreapp2.1\04.AddVAT.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Functional Programming\04.AddVAT\bin\Debug\netcoreapp2.1\04.AddVAT.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Functional Programming\04.AddVAT\obj\Debug\netcoreapp2.1\04.AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Functional Programming\04.AddVAT\obj\Debug\netcoreapp2.1\04.AddVAT.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Functional Programming\04.AddVAT\obj\Debug\netcoreapp2.1\04.AddVAT.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Functional Programming\04.AddVAT\obj\Debug\netcoreapp2.1\04.AddVAT.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Functional Programming\04.AddVAT\obj\Debug\netcoreapp2.1\04.AddVAT.pdb
