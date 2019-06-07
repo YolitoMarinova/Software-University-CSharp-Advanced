@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\09.ListOfPredicates\bin\Debug\netcoreapp2.1\09.ListOfPredicates.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\09.ListOfPredicates\bin\Debug\netcoreapp2.1\09.ListOfPredicates.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\09.ListOfPredicates\bin\Debug\netcoreapp2.1\09.ListOfPredicates.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\09.ListOfPredicates\bin\Debug\netcoreapp2.1\09.ListOfPredicates.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\09.ListOfPredicates\bin\Debug\netcoreapp2.1\09.ListOfPredicates.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.1\09.ListOfPredicates.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.1\09.ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.1\09.ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.1\09.ListOfPredicates.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.1\09.ListOfPredicates.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\09.ListOfPredicates\obj\Debug\netcoreapp2.1\09.ListOfPredicates.pdb

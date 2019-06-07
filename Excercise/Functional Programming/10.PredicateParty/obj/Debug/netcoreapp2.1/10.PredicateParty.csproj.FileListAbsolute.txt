@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\10.PredicateParty\bin\Debug\netcoreapp2.1\10.PredicateParty.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\10.PredicateParty\bin\Debug\netcoreapp2.1\10.PredicateParty.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\10.PredicateParty\bin\Debug\netcoreapp2.1\10.PredicateParty.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\10.PredicateParty\bin\Debug\netcoreapp2.1\10.PredicateParty.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\10.PredicateParty\bin\Debug\netcoreapp2.1\10.PredicateParty.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.1\10.PredicateParty.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.1\10.PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.1\10.PredicateParty.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.1\10.PredicateParty.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.1\10.PredicateParty.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\10.PredicateParty\obj\Debug\netcoreapp2.1\10.PredicateParty.pdb

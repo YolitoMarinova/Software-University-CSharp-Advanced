@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.1\11.ThePartyReservationFilterModule.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.1\11.ThePartyReservationFilterModule.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.1\11.ThePartyReservationFilterModule.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.1\11.ThePartyReservationFilterModule.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\11.ThePartyReservationFilterModule\bin\Debug\netcoreapp2.1\11.ThePartyReservationFilterModule.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11.ThePartyReservationFilterModule.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11.ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11.ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11.ThePartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11.ThePartyReservationFilterModule.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\11.ThePartyReservationFilterModule\obj\Debug\netcoreapp2.1\11.ThePartyReservationFilterModule.pdb
