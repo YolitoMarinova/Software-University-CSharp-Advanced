@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\05.AppliedArithmetics\bin\Debug\netcoreapp2.1\05.AppliedArithmetics.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\05.AppliedArithmetics\bin\Debug\netcoreapp2.1\05.AppliedArithmetics.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\05.AppliedArithmetics\bin\Debug\netcoreapp2.1\05.AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\05.AppliedArithmetics\bin\Debug\netcoreapp2.1\05.AppliedArithmetics.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\05.AppliedArithmetics\bin\Debug\netcoreapp2.1\05.AppliedArithmetics.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\05.AppliedArithmetics\obj\Debug\netcoreapp2.1\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\05.AppliedArithmetics\obj\Debug\netcoreapp2.1\05.AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\05.AppliedArithmetics\obj\Debug\netcoreapp2.1\05.AppliedArithmetics.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\05.AppliedArithmetics\obj\Debug\netcoreapp2.1\05.AppliedArithmetics.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\05.AppliedArithmetics\obj\Debug\netcoreapp2.1\05.AppliedArithmetics.pdb

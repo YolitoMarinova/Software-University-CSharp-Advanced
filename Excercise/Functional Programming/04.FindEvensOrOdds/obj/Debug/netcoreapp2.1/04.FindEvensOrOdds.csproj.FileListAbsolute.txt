@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\04.FindEvensOrOdds\bin\Debug\netcoreapp2.1\04.FindEvensOrOdds.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\04.FindEvensOrOdds\bin\Debug\netcoreapp2.1\04.FindEvensOrOdds.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\04.FindEvensOrOdds\bin\Debug\netcoreapp2.1\04.FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\04.FindEvensOrOdds\bin\Debug\netcoreapp2.1\04.FindEvensOrOdds.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\04.FindEvensOrOdds\bin\Debug\netcoreapp2.1\04.FindEvensOrOdds.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\04.FindEvensOrOdds\obj\Debug\netcoreapp2.1\04.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\04.FindEvensOrOdds\obj\Debug\netcoreapp2.1\04.FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\04.FindEvensOrOdds\obj\Debug\netcoreapp2.1\04.FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\04.FindEvensOrOdds\obj\Debug\netcoreapp2.1\04.FindEvensOrOdds.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\04.FindEvensOrOdds\obj\Debug\netcoreapp2.1\04.FindEvensOrOdds.pdb

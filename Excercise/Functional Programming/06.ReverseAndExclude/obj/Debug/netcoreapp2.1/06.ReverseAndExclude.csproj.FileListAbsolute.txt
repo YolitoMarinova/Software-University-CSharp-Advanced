@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\06.ReverseAndExclude\bin\Debug\netcoreapp2.1\06.ReverseAndExclude.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\06.ReverseAndExclude\bin\Debug\netcoreapp2.1\06.ReverseAndExclude.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\06.ReverseAndExclude\bin\Debug\netcoreapp2.1\06.ReverseAndExclude.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\06.ReverseAndExclude\bin\Debug\netcoreapp2.1\06.ReverseAndExclude.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\06.ReverseAndExclude\bin\Debug\netcoreapp2.1\06.ReverseAndExclude.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\06.ReverseAndExclude\obj\Debug\netcoreapp2.1\06.ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\06.ReverseAndExclude\obj\Debug\netcoreapp2.1\06.ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\06.ReverseAndExclude\obj\Debug\netcoreapp2.1\06.ReverseAndExclude.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\06.ReverseAndExclude\obj\Debug\netcoreapp2.1\06.ReverseAndExclude.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\06.ReverseAndExclude\obj\Debug\netcoreapp2.1\06.ReverseAndExclude.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\06.ReverseAndExclude\obj\Debug\netcoreapp2.1\06.ReverseAndExclude.csprojAssemblyReference.cache

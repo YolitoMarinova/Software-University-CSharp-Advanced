@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\02.KnightsOfHonor\bin\Debug\netcoreapp2.1\02.KnightsOfHonor.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\02.KnightsOfHonor\bin\Debug\netcoreapp2.1\02.KnightsOfHonor.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\02.KnightsOfHonor\bin\Debug\netcoreapp2.1\02.KnightsOfHonor.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\02.KnightsOfHonor\bin\Debug\netcoreapp2.1\02.KnightsOfHonor.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\02.KnightsOfHonor\bin\Debug\netcoreapp2.1\02.KnightsOfHonor.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\02.KnightsOfHonor\obj\Debug\netcoreapp2.1\02.KnightsOfHonor.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\02.KnightsOfHonor\obj\Debug\netcoreapp2.1\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\02.KnightsOfHonor\obj\Debug\netcoreapp2.1\02.KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\02.KnightsOfHonor\obj\Debug\netcoreapp2.1\02.KnightsOfHonor.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\02.KnightsOfHonor\obj\Debug\netcoreapp2.1\02.KnightsOfHonor.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Functional Programming\02.KnightsOfHonor\obj\Debug\netcoreapp2.1\02.KnightsOfHonor.pdb
