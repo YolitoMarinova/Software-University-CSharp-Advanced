@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\05.SpecialCars\bin\Debug\netcoreapp2.2\05.SpecialCars.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\05.SpecialCars\bin\Debug\netcoreapp2.2\05.SpecialCars.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\05.SpecialCars\bin\Debug\netcoreapp2.2\05.SpecialCars.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\05.SpecialCars\bin\Debug\netcoreapp2.2\05.SpecialCars.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\05.SpecialCars\bin\Debug\netcoreapp2.2\05.SpecialCars.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\05.SpecialCars\obj\Debug\netcoreapp2.2\05.SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\05.SpecialCars\obj\Debug\netcoreapp2.2\05.SpecialCars.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\05.SpecialCars\obj\Debug\netcoreapp2.2\05.SpecialCars.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\05.SpecialCars\obj\Debug\netcoreapp2.2\05.SpecialCars.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\05.SpecialCars\obj\Debug\netcoreapp2.2\05.SpecialCars.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\05.SpecialCars\obj\Debug\netcoreapp2.2\05.SpecialCars.csprojAssemblyReference.cache

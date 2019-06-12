@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\04.CarEngineAndTires\bin\Debug\netcoreapp2.2\04.CarEngineAndTires.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\04.CarEngineAndTires\bin\Debug\netcoreapp2.2\04.CarEngineAndTires.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\04.CarEngineAndTires\bin\Debug\netcoreapp2.2\04.CarEngineAndTires.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\04.CarEngineAndTires\bin\Debug\netcoreapp2.2\04.CarEngineAndTires.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\04.CarEngineAndTires\bin\Debug\netcoreapp2.2\04.CarEngineAndTires.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\04.CarEngineAndTires\obj\Debug\netcoreapp2.2\04.CarEngineAndTires.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\04.CarEngineAndTires\obj\Debug\netcoreapp2.2\04.CarEngineAndTires.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\04.CarEngineAndTires\obj\Debug\netcoreapp2.2\04.CarEngineAndTires.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\04.CarEngineAndTires\obj\Debug\netcoreapp2.2\04.CarEngineAndTires.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\04.CarEngineAndTires\obj\Debug\netcoreapp2.2\04.CarEngineAndTires.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Defining Classes\04.CarEngineAndTires\obj\Debug\netcoreapp2.2\04.CarEngineAndTires.pdb
