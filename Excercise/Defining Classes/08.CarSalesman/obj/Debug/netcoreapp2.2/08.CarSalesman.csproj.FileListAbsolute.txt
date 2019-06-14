@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\08.CarSalesman\obj\Debug\netcoreapp2.2\08.CarSalesman.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\08.CarSalesman\obj\Debug\netcoreapp2.2\08.CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\08.CarSalesman\obj\Debug\netcoreapp2.2\08.CarSalesman.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\08.CarSalesman\obj\Debug\netcoreapp2.2\08.CarSalesman.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\08.CarSalesman\bin\Debug\netcoreapp2.2\08.CarSalesman.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\08.CarSalesman\bin\Debug\netcoreapp2.2\08.CarSalesman.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\08.CarSalesman\bin\Debug\netcoreapp2.2\08.CarSalesman.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\08.CarSalesman\bin\Debug\netcoreapp2.2\08.CarSalesman.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\08.CarSalesman\bin\Debug\netcoreapp2.2\08.CarSalesman.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\08.CarSalesman\obj\Debug\netcoreapp2.2\08.CarSalesman.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\08.CarSalesman\obj\Debug\netcoreapp2.2\08.CarSalesman.pdb
