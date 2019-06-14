@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\06.SpeedRacing\bin\Debug\netcoreapp2.2\06.SpeedRacing.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\06.SpeedRacing\bin\Debug\netcoreapp2.2\06.SpeedRacing.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\06.SpeedRacing\bin\Debug\netcoreapp2.2\06.SpeedRacing.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\06.SpeedRacing\bin\Debug\netcoreapp2.2\06.SpeedRacing.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\06.SpeedRacing\bin\Debug\netcoreapp2.2\06.SpeedRacing.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp2.2\06.SpeedRacing.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp2.2\06.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp2.2\06.SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp2.2\06.SpeedRacing.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp2.2\06.SpeedRacing.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\06.SpeedRacing\obj\Debug\netcoreapp2.2\06.SpeedRacing.pdb

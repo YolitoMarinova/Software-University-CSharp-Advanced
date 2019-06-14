@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\02.CreatingConstructors\bin\Debug\netcoreapp2.1\02.CreatingConstructors.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\02.CreatingConstructors\bin\Debug\netcoreapp2.1\02.CreatingConstructors.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\02.CreatingConstructors\bin\Debug\netcoreapp2.1\02.CreatingConstructors.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\02.CreatingConstructors\bin\Debug\netcoreapp2.1\02.CreatingConstructors.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\02.CreatingConstructors\bin\Debug\netcoreapp2.1\02.CreatingConstructors.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\02.CreatingConstructors\obj\Debug\netcoreapp2.1\02.CreatingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\02.CreatingConstructors\obj\Debug\netcoreapp2.1\02.CreatingConstructors.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\02.CreatingConstructors\obj\Debug\netcoreapp2.1\02.CreatingConstructors.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\02.CreatingConstructors\obj\Debug\netcoreapp2.1\02.CreatingConstructors.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\02.CreatingConstructors\obj\Debug\netcoreapp2.1\02.CreatingConstructors.pdb

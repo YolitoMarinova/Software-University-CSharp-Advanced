@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.pdb

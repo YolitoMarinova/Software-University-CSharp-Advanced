@@ -1,0 +1,4 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\07.RawData\obj\Debug\netcoreapp2.2\07.RawData.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\07.RawData\obj\Debug\netcoreapp2.2\07.RawData.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\07.RawData\obj\Debug\netcoreapp2.2\07.RawData.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\07.RawData\obj\Debug\netcoreapp2.2\07.RawData.AssemblyInfo.cs

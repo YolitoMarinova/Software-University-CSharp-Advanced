@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\05.DateModifier\bin\Debug\netcoreapp2.2\05.DateModifier.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\05.DateModifier\bin\Debug\netcoreapp2.2\05.DateModifier.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\05.DateModifier\bin\Debug\netcoreapp2.2\05.DateModifier.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\05.DateModifier\bin\Debug\netcoreapp2.2\05.DateModifier.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\05.DateModifier\bin\Debug\netcoreapp2.2\05.DateModifier.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.2\05.DateModifier.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.2\05.DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.2\05.DateModifier.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.2\05.DateModifier.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.2\05.DateModifier.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Defining Classes\05.DateModifier\obj\Debug\netcoreapp2.2\05.DateModifier.pdb
