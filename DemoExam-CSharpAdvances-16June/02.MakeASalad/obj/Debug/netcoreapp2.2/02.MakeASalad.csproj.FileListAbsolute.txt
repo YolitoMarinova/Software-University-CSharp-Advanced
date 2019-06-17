@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\02.MakeASalad\bin\Debug\netcoreapp2.2\02.MakeASalad.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\02.MakeASalad\bin\Debug\netcoreapp2.2\02.MakeASalad.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\02.MakeASalad\bin\Debug\netcoreapp2.2\02.MakeASalad.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\02.MakeASalad\bin\Debug\netcoreapp2.2\02.MakeASalad.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\02.MakeASalad\bin\Debug\netcoreapp2.2\02.MakeASalad.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\02.MakeASalad\obj\Debug\netcoreapp2.2\02.MakeASalad.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\02.MakeASalad\obj\Debug\netcoreapp2.2\02.MakeASalad.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\02.MakeASalad\obj\Debug\netcoreapp2.2\02.MakeASalad.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\02.MakeASalad\obj\Debug\netcoreapp2.2\02.MakeASalad.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\02.MakeASalad\obj\Debug\netcoreapp2.2\02.MakeASalad.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\02.MakeASalad\obj\Debug\netcoreapp2.2\02.MakeASalad.pdb

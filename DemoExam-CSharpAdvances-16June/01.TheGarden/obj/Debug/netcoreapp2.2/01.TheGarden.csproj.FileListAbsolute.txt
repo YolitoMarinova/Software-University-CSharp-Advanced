@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\01.TheGarden\bin\Debug\netcoreapp2.2\01.TheGarden.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\01.TheGarden\bin\Debug\netcoreapp2.2\01.TheGarden.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\01.TheGarden\bin\Debug\netcoreapp2.2\01.TheGarden.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\01.TheGarden\bin\Debug\netcoreapp2.2\01.TheGarden.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\01.TheGarden\bin\Debug\netcoreapp2.2\01.TheGarden.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\DemoExam-CSharpAdvances-16June\01.TheGarden\obj\Debug\netcoreapp2.2\01.TheGarden.pdb
