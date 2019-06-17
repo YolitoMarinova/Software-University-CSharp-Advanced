@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\01.Box\bin\Debug\netcoreapp2.1\01.Box.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\01.Box\bin\Debug\netcoreapp2.1\01.Box.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\01.Box\bin\Debug\netcoreapp2.1\01.Box.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\01.Box\bin\Debug\netcoreapp2.1\01.Box.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\01.Box\bin\Debug\netcoreapp2.1\01.Box.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\01.Box\obj\Debug\netcoreapp2.1\01.Box.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\01.Box\obj\Debug\netcoreapp2.1\01.Box.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\01.Box\obj\Debug\netcoreapp2.1\01.Box.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\01.Box\obj\Debug\netcoreapp2.1\01.Box.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\01.Box\obj\Debug\netcoreapp2.1\01.Box.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\01.Box\obj\Debug\netcoreapp2.1\01.Box.pdb

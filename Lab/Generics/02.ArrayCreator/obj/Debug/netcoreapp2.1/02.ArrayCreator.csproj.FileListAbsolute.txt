@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\02.ArrayCreator\bin\Debug\netcoreapp2.1\02.ArrayCreator.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\02.ArrayCreator\bin\Debug\netcoreapp2.1\02.ArrayCreator.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\02.ArrayCreator\bin\Debug\netcoreapp2.1\02.ArrayCreator.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\02.ArrayCreator\bin\Debug\netcoreapp2.1\02.ArrayCreator.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\02.ArrayCreator\bin\Debug\netcoreapp2.1\02.ArrayCreator.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\02.ArrayCreator\obj\Debug\netcoreapp2.1\02.ArrayCreator.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\02.ArrayCreator\obj\Debug\netcoreapp2.1\02.ArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\02.ArrayCreator\obj\Debug\netcoreapp2.1\02.ArrayCreator.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\02.ArrayCreator\obj\Debug\netcoreapp2.1\02.ArrayCreator.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\02.ArrayCreator\obj\Debug\netcoreapp2.1\02.ArrayCreator.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Generics\02.ArrayCreator\obj\Debug\netcoreapp2.1\02.ArrayCreator.pdb
