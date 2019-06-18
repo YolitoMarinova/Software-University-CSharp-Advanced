@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\08.Threeuple\bin\Debug\netcoreapp2.2\08.Threeuple.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\08.Threeuple\bin\Debug\netcoreapp2.2\08.Threeuple.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\08.Threeuple\bin\Debug\netcoreapp2.2\08.Threeuple.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\08.Threeuple\bin\Debug\netcoreapp2.2\08.Threeuple.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\08.Threeuple\bin\Debug\netcoreapp2.2\08.Threeuple.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\08.Threeuple\obj\Debug\netcoreapp2.2\08.Threeuple.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\08.Threeuple\obj\Debug\netcoreapp2.2\08.Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\08.Threeuple\obj\Debug\netcoreapp2.2\08.Threeuple.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\08.Threeuple\obj\Debug\netcoreapp2.2\08.Threeuple.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\08.Threeuple\obj\Debug\netcoreapp2.2\08.Threeuple.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\08.Threeuple\obj\Debug\netcoreapp2.2\08.Threeuple.pdb

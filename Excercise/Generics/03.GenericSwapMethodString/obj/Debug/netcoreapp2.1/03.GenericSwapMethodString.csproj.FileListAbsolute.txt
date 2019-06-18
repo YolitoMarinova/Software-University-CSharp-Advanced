@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\03.GenericSwapMethodString\bin\Debug\netcoreapp2.1\03.GenericSwapMethodString.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\03.GenericSwapMethodString\bin\Debug\netcoreapp2.1\03.GenericSwapMethodString.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\03.GenericSwapMethodString\bin\Debug\netcoreapp2.1\03.GenericSwapMethodString.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\03.GenericSwapMethodString\bin\Debug\netcoreapp2.1\03.GenericSwapMethodString.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\03.GenericSwapMethodString\bin\Debug\netcoreapp2.1\03.GenericSwapMethodString.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.pdb

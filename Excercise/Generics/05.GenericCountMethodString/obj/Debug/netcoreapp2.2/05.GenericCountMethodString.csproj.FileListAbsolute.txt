@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\05.GenericCountMethodString\bin\Debug\netcoreapp2.2\05.GenericCountMethodString.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\05.GenericCountMethodString\bin\Debug\netcoreapp2.2\05.GenericCountMethodString.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\05.GenericCountMethodString\bin\Debug\netcoreapp2.2\05.GenericCountMethodString.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\05.GenericCountMethodString\bin\Debug\netcoreapp2.2\05.GenericCountMethodString.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\05.GenericCountMethodString\bin\Debug\netcoreapp2.2\05.GenericCountMethodString.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\05.GenericCountMethodString\obj\Debug\netcoreapp2.2\05.GenericCountMethodString.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\05.GenericCountMethodString\obj\Debug\netcoreapp2.2\05.GenericCountMethodString.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\05.GenericCountMethodString\obj\Debug\netcoreapp2.2\05.GenericCountMethodString.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\05.GenericCountMethodString\obj\Debug\netcoreapp2.2\05.GenericCountMethodString.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\05.GenericCountMethodString\obj\Debug\netcoreapp2.2\05.GenericCountMethodString.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\05.GenericCountMethodString\obj\Debug\netcoreapp2.2\05.GenericCountMethodString.pdb

@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\01.GenericBoxOfString\bin\Debug\netcoreapp2.2\01.GenericBoxOfString.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\01.GenericBoxOfString\bin\Debug\netcoreapp2.2\01.GenericBoxOfString.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\01.GenericBoxOfString\bin\Debug\netcoreapp2.2\01.GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\01.GenericBoxOfString\bin\Debug\netcoreapp2.2\01.GenericBoxOfString.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\01.GenericBoxOfString\bin\Debug\netcoreapp2.2\01.GenericBoxOfString.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\01.GenericBoxOfString\obj\Debug\netcoreapp2.2\01.GenericBoxOfString.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\01.GenericBoxOfString\obj\Debug\netcoreapp2.2\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\01.GenericBoxOfString\obj\Debug\netcoreapp2.2\01.GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\01.GenericBoxOfString\obj\Debug\netcoreapp2.2\01.GenericBoxOfString.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\01.GenericBoxOfString\obj\Debug\netcoreapp2.2\01.GenericBoxOfString.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\01.GenericBoxOfString\obj\Debug\netcoreapp2.2\01.GenericBoxOfString.pdb
