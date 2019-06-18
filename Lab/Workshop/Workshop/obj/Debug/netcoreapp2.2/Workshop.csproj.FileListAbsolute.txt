@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Workshop\Workshop\bin\Debug\netcoreapp2.2\Workshop.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Workshop\Workshop\bin\Debug\netcoreapp2.2\Workshop.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Workshop\Workshop\bin\Debug\netcoreapp2.2\Workshop.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Workshop\Workshop\bin\Debug\netcoreapp2.2\Workshop.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Workshop\Workshop\bin\Debug\netcoreapp2.2\Workshop.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Lab\Workshop\Workshop\obj\Debug\netcoreapp2.2\Workshop.pdb
