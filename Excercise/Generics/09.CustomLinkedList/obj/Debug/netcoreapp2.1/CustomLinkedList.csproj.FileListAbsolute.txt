@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Generics\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.pdb
