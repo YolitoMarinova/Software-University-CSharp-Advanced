@@ -1,0 +1,10 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.2\02.SpaceStationRecruitment.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.2\02.SpaceStationRecruitment.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.2\02.SpaceStationRecruitment.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.2\02.SpaceStationRecruitment.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.2\02.SpaceStationRecruitment.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.2\02.SpaceStationRecruitment.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.2\02.SpaceStationRecruitment.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.2\02.SpaceStationRecruitment.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.2\02.SpaceStationRecruitment.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.2\02.SpaceStationRecruitment.pdb

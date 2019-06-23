@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.2\03.SpaceStationEstablishment.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.2\03.SpaceStationEstablishment.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.2\03.SpaceStationEstablishment.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.2\03.SpaceStationEstablishment.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.2\03.SpaceStationEstablishment.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.2\03.SpaceStationEstablishment.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.2\03.SpaceStationEstablishment.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.2\03.SpaceStationEstablishment.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.2\03.SpaceStationEstablishment.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.2\03.SpaceStationEstablishment.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.2\03.SpaceStationEstablishment.pdb

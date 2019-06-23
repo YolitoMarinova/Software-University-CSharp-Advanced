@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\01.SpaceshipCrafting\bin\Debug\netcoreapp2.2\01.SpaceshipCrafting.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\01.SpaceshipCrafting\bin\Debug\netcoreapp2.2\01.SpaceshipCrafting.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\01.SpaceshipCrafting\bin\Debug\netcoreapp2.2\01.SpaceshipCrafting.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\01.SpaceshipCrafting\bin\Debug\netcoreapp2.2\01.SpaceshipCrafting.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\01.SpaceshipCrafting\bin\Debug\netcoreapp2.2\01.SpaceshipCrafting.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\01.SpaceshipCrafting\obj\Debug\netcoreapp2.2\01.SpaceshipCrafting.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\01.SpaceshipCrafting\obj\Debug\netcoreapp2.2\01.SpaceshipCrafting.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\01.SpaceshipCrafting\obj\Debug\netcoreapp2.2\01.SpaceshipCrafting.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\01.SpaceshipCrafting\obj\Debug\netcoreapp2.2\01.SpaceshipCrafting.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\01.SpaceshipCrafting\obj\Debug\netcoreapp2.2\01.SpaceshipCrafting.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\CSharp - Advanced - Exam 23 June\01.SpaceshipCrafting\obj\Debug\netcoreapp2.2\01.SpaceshipCrafting.pdb
