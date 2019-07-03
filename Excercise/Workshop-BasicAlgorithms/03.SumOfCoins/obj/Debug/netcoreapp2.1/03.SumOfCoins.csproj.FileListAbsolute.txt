@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\03.SumOfCoins\bin\Debug\netcoreapp2.1\03.SumOfCoins.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\03.SumOfCoins\bin\Debug\netcoreapp2.1\03.SumOfCoins.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\03.SumOfCoins\bin\Debug\netcoreapp2.1\03.SumOfCoins.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\03.SumOfCoins\bin\Debug\netcoreapp2.1\03.SumOfCoins.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\03.SumOfCoins\bin\Debug\netcoreapp2.1\03.SumOfCoins.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\03.SumOfCoins\obj\Debug\netcoreapp2.1\03.SumOfCoins.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\03.SumOfCoins\obj\Debug\netcoreapp2.1\03.SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\03.SumOfCoins\obj\Debug\netcoreapp2.1\03.SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\03.SumOfCoins\obj\Debug\netcoreapp2.1\03.SumOfCoins.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\03.SumOfCoins\obj\Debug\netcoreapp2.1\03.SumOfCoins.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\03.SumOfCoins\obj\Debug\netcoreapp2.1\03.SumOfCoins.pdb

@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\02.RecursiveFactorial\bin\Debug\netcoreapp2.2\02.RecursiveFactorial.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\02.RecursiveFactorial\bin\Debug\netcoreapp2.2\02.RecursiveFactorial.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\02.RecursiveFactorial\bin\Debug\netcoreapp2.2\02.RecursiveFactorial.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\02.RecursiveFactorial\bin\Debug\netcoreapp2.2\02.RecursiveFactorial.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\02.RecursiveFactorial\bin\Debug\netcoreapp2.2\02.RecursiveFactorial.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\02.RecursiveFactorial\obj\Debug\netcoreapp2.2\02.RecursiveFactorial.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\02.RecursiveFactorial\obj\Debug\netcoreapp2.2\02.RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\02.RecursiveFactorial\obj\Debug\netcoreapp2.2\02.RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\02.RecursiveFactorial\obj\Debug\netcoreapp2.2\02.RecursiveFactorial.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\02.RecursiveFactorial\obj\Debug\netcoreapp2.2\02.RecursiveFactorial.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\02.RecursiveFactorial\obj\Debug\netcoreapp2.2\02.RecursiveFactorial.pdb

@@ -1,0 +1,11 @@
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\01.RecursiveArraySum\bin\Debug\netcoreapp2.2\01.RecursiveArraySum.deps.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\01.RecursiveArraySum\bin\Debug\netcoreapp2.2\01.RecursiveArraySum.runtimeconfig.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\01.RecursiveArraySum\bin\Debug\netcoreapp2.2\01.RecursiveArraySum.runtimeconfig.dev.json
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\01.RecursiveArraySum\bin\Debug\netcoreapp2.2\01.RecursiveArraySum.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\01.RecursiveArraySum\bin\Debug\netcoreapp2.2\01.RecursiveArraySum.pdb
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\01.RecursiveArraySum\obj\Debug\netcoreapp2.2\01.RecursiveArraySum.csprojAssemblyReference.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\01.RecursiveArraySum\obj\Debug\netcoreapp2.2\01.RecursiveArraySum.csproj.CoreCompileInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\01.RecursiveArraySum\obj\Debug\netcoreapp2.2\01.RecursiveArraySum.AssemblyInfoInputs.cache
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\01.RecursiveArraySum\obj\Debug\netcoreapp2.2\01.RecursiveArraySum.AssemblyInfo.cs
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\01.RecursiveArraySum\obj\Debug\netcoreapp2.2\01.RecursiveArraySum.dll
+C:\Users\ioan4\Desktop\SoftUni\C# Advanced\Excercise\Workshop-BasicAlgorithms\01.RecursiveArraySum\obj\Debug\netcoreapp2.2\01.RecursiveArraySum.pdb
